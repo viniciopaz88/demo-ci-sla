@@ -6,7 +6,7 @@ Impacto y urgencia se expresan de 1 a 3:
 
 # Matriz de prioridad: MATRIZ[impacto][urgencia]
 MATRIZ = {
-    1: {1: "P3", 2: "P2", 3: "P3"},
+    1: {1: "P1", 2: "P2", 3: "P3"},
     2: {1: "P2", 2: "P3", 3: "P4"},
     3: {1: "P3", 2: "P4", 3: "P4"},
 }
